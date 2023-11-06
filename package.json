@@ -1,13 +1,13 @@
 {
-  "name": "@fl0/template-nodejs",
+  "name": "nekos.api",
+  "private": true,
   "version": "1.0.0",
-  "description": "A simple Node.js Express app for getting started on FL0",
+  "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Drake Taylor",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.18.2"
   }
